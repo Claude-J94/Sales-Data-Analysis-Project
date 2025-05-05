@@ -19,7 +19,7 @@ This project analyzes sales data from a retail company to gain insights into top
 ### Dataset:
 - **Sales Data**: [Download Link or Dataset Information]
 
-- ### Key Insights:
+### Key Insights:
 
 1. **Top Products**: Certain **PRODUCTLINE** categories are generating significantly more revenue than others. Focus on these product lines to drive more sales.
    
